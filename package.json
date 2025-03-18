@@ -1,0 +1,19 @@
+{
+  "name": "itlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zkejm/Konicky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zkejm/Konicky/issues"
+  },
+  "homepage": "https://github.com/Zkejm/Konicky#readme"
+}
