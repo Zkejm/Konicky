@@ -1,19 +1,21 @@
 {
-  "name": "itlab",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "vue-project",
+  "version": "0.0.0",
   "scripts": {
-    "test": "test"
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview --port 5050",
+    "typecheck": "vue-tsc --noEmit"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Zkejm/Konicky.git"
+  "dependencies": {
+    "vue": "^3.2.26"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Zkejm/Konicky/issues"
-  },
-  "homepage": "https://github.com/Zkejm/Konicky#readme"
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "@vitejs/plugin-vue-jsx": "^1.3.1",
+    "typescript": "~4.5.3",
+    "vite": "^2.7.1",
+    "vue-tsc": "^0.29.8"
+  }
 }
