@@ -1,0 +1,114 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Pohybové",
+        "subcategories": [
+          {
+            "id": 1,
+            "name": "Basketbal",
+            "places": [
+              {
+                "id": 1,
+                "name": "Športová hala A",
+                "city": "Moldava nad Bodvou",
+                "address": "Hlavná 1"
+              },
+              {
+                "id": 2,
+                "name": "Telocvičňa ZŠ",
+                "city": "Moldava nad Bodvou",
+                "address": "Školská 5"
+              },
+              {
+                "id": 3,
+                "name": "Vonkašie ihrisko pri parku",
+                "city": "Moldava nad Bodvou",
+                "address": "Parková 3"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Futbal",
+            "places": [
+              {
+                "id": 4,
+                "name": "Futbalový štadión",
+                "city": "Moldava nad Bodvou",
+                "address": "Športová 10"
+              },
+              {
+                "id": 5,
+                "name": "Tréningové ihrisko TJ Sokol",
+                "city": "Moldava nad Bodvou",
+                "address": "Sokolská 2"
+              },
+              {
+                "id": 6,
+                "name": "Školské ihrisko",
+                "city": "Moldava nad Bodvou",
+                "address": "Školská 5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Umelecké",
+        "subcategories": [
+          {
+            "id": 3,
+            "name": "Maľovanie",
+            "places": [
+              {
+                "id": 7,
+                "name": "Kultúrne centrum",
+                "city": "Moldava nad Bodvou",
+                "address": "Námestie kultúry 1"
+              },
+              {
+                "id": 8,
+                "name": "Ateliér u Majstra",
+                "city": "Moldava nad Bodvou",
+                "address": "Umelecká 12"
+              },
+              {
+                "id": 9,
+                "name": "Komunitné centrum",
+                "city": "Moldava nad Bodvou",
+                "address": "Komunitná 8"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Hudba",
+            "places": [
+              {
+                "id": 10,
+                "name": "Hudobná škola",
+                "city": "Moldava nad Bodvou",
+                "address": "Hudobná 3"
+              },
+              {
+                "id": 11,
+                "name": "Skúšobňa kapely XYZ",
+                "city": "Moldava nad Bodvou",
+                "address": "Rocková 7"
+              },
+              {
+                "id": 12,
+                "name": "Kultúrny dom",
+                "city": "Moldava nad Bodvou",
+                "address": "Námestie kultúry 1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
