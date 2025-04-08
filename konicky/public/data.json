@@ -7,18 +7,21 @@
           {
             "id": 1,
             "name": "Basketbal",
+            "description": "Basketbal je dynamický šport, kde tímy súperia o skóre hádzaním lopty do súperovho koša. Hráči kombinujú rýchle pohyby, strely a taktiku. Táto hra je známa pre vzrušujúcu atmosféru a fyzický kontakt na ihrisku.",
             "places": [
               {
                 "id": 1,
-                "name": "Športová hala A",
-                "city": "Moldava nad Bodvou",
-                "address": "Hlavná 1"
+                "info": "Loptová hra pre 2 tímy s košmi",
+                "description": "Basketbal je dynamický šport, kde tímy súperia o skóre hádzaním lopty do súperovho koša. Hráči kombinujú rýchle pohyby, strely a taktiku. Táto hra je známa pre vzrušujúcu atmosféru a fyzický kontakt na ihrisku."
               },
               {
                 "id": 2,
                 "name": "Telocvičňa ZŠ",
                 "city": "Moldava nad Bodvou",
-                "address": "Školská 5"
+                "address": "Školská 5",
+                "web": "https://www.facebook.com/profile.php?id=100063480585243",
+                "club": "Athletic Legion Club Moldava n/B.",
+                "contact": "+421902289279"
               },
               {
                 "id": 3,
@@ -31,12 +34,15 @@
           {
             "id": 2,
             "name": "Futbal",
+            "description": "Futbal je najpopulárnejšia športová hra na svete ktorá je taktiež skvelým spôsobom ako stráviť svoj voľný čas.",
             "places": [
               {
                 "id": 4,
-                "name": "Futbalový štadión",
-                "city": "Moldava nad Bodvou",
-                "address": "Športová 10"
+                "info": "Loptová hra pre 2 tímy s bránkami",
+                "web": "https://www.facebook.com/people/Mestský-športový-klub-Moldava-nad-Bodvou/100057420130146/?locale=mt_MT&paipv=0&eav=AfboCaa6wd-_hfSMDdhJf0RElGC8_1iEl7CNiFBZP32HcsoHYhbS_3thZwOMLzFcMIU&_rdr",
+                "club": "Mestský športový klub Moldava n/B.",
+                "address": "blank",
+                "contact": "+421948169109"
               },
               {
                 "id": 5,
@@ -110,5 +116,3 @@
       }
     ]
   }
-
-  
