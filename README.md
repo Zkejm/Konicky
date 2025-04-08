@@ -5,7 +5,7 @@ Stahovanie z Githubu
 1. Treba si vytvoriť nový file (napr.konicky)
  
 
-2. Keď si vytvoríme file otvoríme GitBash konzolu a dostaneme sa to tohto fileu
+2. Keď si vytvoríme file otvoríme GitBash konzolu a dostaneme sa to vytvoreného fileu
  
 
     2.1 cd desktop
@@ -14,13 +14,13 @@ Stahovanie z Githubu
     2.2 cd konicky
  
 
-3. Keď nám na konci zadávacieho riadku GitBash vypisuje "~/desktop/itlab" tak si môžme vytvoriť nový ssh-key
+3. Keď nám na konci zadávacieho riadku GitBash vypisuje "~/konicky" tak si môžme vytvoriť nový ssh-key
  
 
     3.1 ssh-keygen -t rsa -b 4096 -C "vasemail@gymmoldava.sk"
  
 
-4. Keď máme vytvorený ssh kľúč (vieme ho nájsť aj v prieskumníku pre overenie: C:\Users\nazovusera\.ssh) napíšeme toto do konzole aby sme zapli ssh-agenta
+4. Keď máme vytvorený ssh kľúč (vieme ho nájsť aj v prieskumníku pre overenie: C:\Users\NazovUsera\.ssh) napíšeme toto do konzole aby sme zapli ssh-agenta
  
 
     4.1 eval "$(ssh-agent -s)"
@@ -41,7 +41,7 @@ Stahovanie z Githubu
 7. Pojdeme do GitHubu, klikneme na profil v pravom hornom rohu --> Settings --> SSH and GPG keys kde klikneme na "New SSH key" a do poľa "Key" zadáme skopírovaný ssh-public-key a pridáme kľúč
  
 
-8. Keď to všetko máme vypneme zapneme GitBash, dostaneme sa zase do priečinku koníčky (bod 2.) a otestujeme či nám prepojenie funguje
+8. Keď to všetko máme, vypneme zapneme GitBash, dostaneme sa zase do priečinku koníčky (bod 2.) a otestujeme či nám prepojenie funguje
  
 
     8.1 ssh -T git@github.com
@@ -65,7 +65,7 @@ Stahovanie z Githubu
     11.1 git config --global user.name "VaseGithubMeno"
  
 
-    11.2 git config --global user.email "email@gymmoldava.sk"
+    11.2 git config --global user.email "vasemail@gymmoldava.sk"
  
 
     11.3 POZOR!!! user.name a user.email sa nemení, jediné čo treba zmeniť sú "hodnoty" v úvodzovkách
@@ -83,10 +83,10 @@ Stahovanie z Githubu
     13.1 user.name=VaseGithubMeno
  
 
-    13.2 user.email=email@gymmoldava.sk
+    13.2 user.email=vasemail@gymmoldava.sk
  
 
-14. Keď sú "hodnoty" správne, môžeme si naclonovať ("stiahnuť") všetky files z repa
+14. Keď sú "hodnoty" správne, môžeme si naclonovať ("stiahnuť") všetky files z repozitáru
  
 
     14.1 git clone git@github.com:Zkejm/Konicky.git
