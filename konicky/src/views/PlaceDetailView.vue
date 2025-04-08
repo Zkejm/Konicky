@@ -28,8 +28,12 @@ onMounted(async () => {
 <template>
   <div v-if="place">
     <h1>{{ place.name }}</h1>
-    <p><strong>Mesto:</strong> {{ place.city }}</p>
-    <p><strong>Adresa:</strong> {{ place.address }}</p>
+    <p><strong>Mesto: </strong>{{ place.city }}</p>
+    <p><strong>Adresa: </strong>{{ place.address }}</p>
+    <p><strong>Klub: </strong>{{ place.club }}</p>
+    <p v-if="place.web"><strong>Webstránka:</strong><a :href="place.web" target="_blank" rel="noopener noreferrer">{{ place.web }}</a></p>
+    <p><strong>Kontakt: </strong>{{ place.contact }}</p>
+    <div class="map-container" v-if="place.mapa" v-html="place.mapa"></div>
   </div>
   <p v-else>Loading...</p>
 </template>
