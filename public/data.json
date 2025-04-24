@@ -157,12 +157,12 @@
             "places": [
               {
                 "id": 13,
-                "name": "meno budovy",
-                "city": "mesto",
-                "address": "adresa",
-                "web": "webstranka klubu",
-                "club": "meno klubu",
-                "contact": "tel. cislo",
+                "name": "ZUŠ Moldava n/B.",
+                "city": "Moldava nad Bodvou",
+                "address": "Hlavná 1281, 045 01",
+                "web": "whttps://zusmoldava.edupage.org/",
+                "club": "ZUŠ Moldava n/B.",
+                "contact": "948151037",
                 "mapa": "z tabulky a treba doplnit pred uvodzovku lomku aby to vyzeralo takto :\": <iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1489.541198411739!2d20.99268077012522!3d48.61330933311499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037775979!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
               },
               {
@@ -189,16 +189,16 @@
           },
           {
             "id": 6,
-            "name": "Varenie a pečenie",
+            "name": "Fotografia",
             "places": [
               {
                 "id": 16,
-                "name": "meno budovy",
-                "city": "mesto",
-                "address": "adresa",
-                "web": "webstranka klubu",
-                "club": "meno klubu",
-                "contact": "tel. cislo",
+                "name": "ZUŠ Moldava n/B.",
+                "city": "Moldava nad Bodvou",
+                "address": "Hlavná 1281, 045 01",
+                "web": "https://zusmoldava.edupage.org/",
+                "club": "ZUŠ Moldava n/B.",
+                "contact": "948151037",
                 "mapa": "z tabulky a treba doplnit pred uvodzovku lomku aby to vyzeralo takto :\": <iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1489.541198411739!2d20.99268077012522!3d48.61330933311499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037775979!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
               },
               {
