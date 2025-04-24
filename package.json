@@ -39,5 +39,17 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zkejm/Konicky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zkejm/Konicky/issues"
+  },
+  "homepage": "https://github.com/Zkejm/Konicky#readme"
 }
