@@ -1,0 +1,1449 @@
+{
+  "categories": [
+  {
+    "id": 1,
+    "name": "Pohybové",
+    "color": "#f4753c",
+    "subcategories": [
+      {
+        "id": 1,
+        "name": "Atletika",
+        "description": "Atletika je z&aacute;kladn&yacute; &scaron;port zah&racute;&ncaron;aj&uacute;ci beh, skoky, hody a ch&ocirc;dzu, ktor&eacute; preveruj&uacute; silu, r&yacute;chlos&tcaron;, vytrvalos&tcaron; a techniku &scaron;portovcov. Je pova&zcaron;ovan&aacute; za jeden z najstar&scaron;&iacute;ch a najuniverz&aacute;lnej&scaron;&iacute;ch &scaron;portov na svete.",
+        "picture": "https://fll.gymmoldava.sk/atletika.jpg",
+        "places": [
+          {
+            "id": 1,
+            "name": "Athletic Legion Club Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "N&aacute;mestie mieru 910/5, 04501 Moldava nad Bodvou",
+            "web": "https://www.facebook.com/p/Athletic-Legion-Club-Moldava-Nad-Bodvou-100063480585243/?locale=sk_SK",
+            "contact": "+421 902 289 279",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1489.541198411739!2d20.99268077012522!3d48.61330933311499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037775979!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 2,
+            "name": "TIMING.sk company ADAKO s.r.o, Ko&scaron;ice",
+            "city": "Ko&scaron;ice",
+            "address": "Pra&zcaron;sk&aacute; 4/803, 040 11 Ko&scaron;ice",
+            "web": "https://www.cylex.sk/kosice/timing.sk+company+adako+s.r.o-11153744.html",
+            "contact": "+421 905 262 358",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d782.6843273318909!2d21.238663620765067!3d48.71263321159968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1satletika%20kosice%20!5e0!3m2!1ssk!2ssk!4v1742471967164!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 3,
+            "name": "Atletick&yacute; klub &scaron;tart Dru&zcaron;stevn&aacute; pri Horn&aacute;de",
+            "city": "Dru&zcaron;stevn&aacute; pri Horn&aacute;de",
+            "address": "Dru&zcaron;stevn&aacute; pri Horn&aacute;de II/285, 044 31 Dru&zcaron;stevn&aacute; pri Horn&aacute;de",
+            "web": "https://finstat.sk/17150264",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.94726644147!2d21.249609898394773!3d48.802991500000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee6ec92cb1c49%3A0x195de7fbddb6ef9d!2zVnpwaWVyYcSNc2vDvSBLbHViIERydcW-c3Rldm7DoSBQcmkgSG9ybsOhZGU!5e0!3m2!1ssk!2sus!4v1745503913197!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Basketball",
+        "description": "Basketbal je dynamick&yacute; &scaron;port, kde t&iacute;my s&uacute;peria o sk&oacute;re h&aacute;dzan&iacute;m lopty do s&uacute;perovho ko&scaron;a. Hr&aacute;&ccaron;i kombinuj&uacute; r&yacute;chle pohyby, strely a taktiku. T&aacute;to hra je zn&aacute;ma pre vzru&scaron;uj&uacute;cu atmosf&eacute;ru a fyzick&yacute; kontakt na ihrisku.",
+        "picture": "https://fll.gymmoldava.sk/Basketabal.jpg",
+        "places": [
+          {
+            "id": 4,
+            "name": "Athletic Legion Club Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "N&aacute;mestie mieru 910/5, 04501 Moldava nad Bodvou",
+            "web": "https://www.facebook.com/p/Athletic-Legion-Club-Moldava-Nad-Bodvou-100063480585243/?locale=sk_SK",
+            "contact": "+421 902 289 279",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1489.541198411739!2d20.99268077012522!3d48.61330933311499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037775979!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 5,
+            "name": "CASSOVIA BASKET CLUB",
+            "city": "Ko&scaron;ice",
+            "address": "Palack&eacute;ho 14, 040 01  Ko&scaron;ice",
+            "web": "https://www.azet.sk/firma/52558/cassovia-basket-club/",
+            "contact": "+421 915 933 439",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d164.50918027562824!2d21.273199144150073!3d48.72178495004853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbasketbal%20kosice%20%20club!5e0!3m2!1ssk!2ssk!4v1742472277104!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 6,
+            "name": "Basketbalov&yacute; klub Ko&scaron;ice, o.z.",
+            "city": "Mal&aacute; Ida",
+            "address": "Tulip&aacute;nov&aacute; 21, 044 20 Mal&aacute; Ida",
+            "web": "https://finstat.sk/54625092",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21060.345358320556!2d21.180123474316407!3d48.71421199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee03654237c2b%3A0xd80cfd1e655b5bae!2sRIM%20Basket%20o.z.!5e0!3m2!1ssk!2sus!4v1745503965925!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bicyklovanie",
+        "description": "Cyklistika je ide&aacute;lna pre zlep&scaron;enie kond&iacute;cie, posilnenie svalov a prevenciu ochoren&iacute;, &scaron;etr&iacute; ve&lcaron;k&eacute; k&lacute;by, hlavne kolenn&eacute; a bedrov&eacute;. Je to druh&yacute; najprirodzenej&scaron;&iacute; pohyb pre &ccaron;loveka po ch&ocirc;dzi.",
+        "picture": "https://fll.gymmoldava.sk/bicyklovanie.jpg",
+        "places": [
+          {
+            "id": 7,
+            "name": "Time 4 fun Mokrance",
+            "city": "Mokrance",
+            "address": "Mokrance",
+            "web": "https://www.time4fun.sk/",
+            "contact": "+421 905 593 722",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.5290356027926!2d21.020572277386172!3d48.59422797129746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b5424556a23%3A0xc1dbc6c019617b52!2sTime4fun%2C%20o.z.!5e1!3m2!1ssk!2ssk!4v1737037267961!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 8,
+            "name": "Fitclub San-Van",
+            "city": "Ko&scaron;ice",
+            "address": "&ccaron;eskoslovenskej arm&aacute;dy 1168/11, 040 01 Ko&scaron;ice - Star&eacute; Mesto",
+            "web": "https://www.facebook.com/fitclubsanvan/?locale=sk_SK",
+            "contact": "+421 556 255 645",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d307.2742270128764!2d21.24866549834773!3d48.72678726679011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBicyklovanie%20club%20kosice%20!5e1!3m2!1ssk!2ssk!4v1742490505763!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 9,
+            "name": "TOUR de Kysak",
+            "city": "Kysak",
+            "address": "Kysak 225, 044 81 Kysak",
+            "web": "https://www.kysak.sk/--3-526-tour-de-kysak",
+            "contact": "+421 557 290 591",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21002.553449550353!2d21.176294088149742!3d48.85212366518122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee5995f89d2ab%3A0x400f7d1c6974720!2s044%2081%20Kysak%2C%20Slovensko!5e0!3m2!1ssk!2sus!4v1745504019282!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Biliard",
+        "description": "T&aacute;to aktivita zah&racute;&ncaron;a hru s guli&ccaron;kami na &scaron;peci&aacute;lnom stole, pri&ccaron;om cie&lcaron;om je ich presne umiestni&tcaron; do vopred stanoven&yacute;ch dier. Biliard nie len podporuje s&uacute;&tcaron;a&zcaron;iv&yacute; duch a taktick&eacute; myslenie, ale aj poskytuje pr&iacute;jemn&yacute; sp&ocirc;sob tr&aacute;venia vo&lcaron;n&eacute;ho &ccaron;asu a komunik&aacute;cie s priate&lcaron;mi alebo rodinou.",
+        "picture": "https://fll.gymmoldava.sk/biliard.png",
+        "places": [
+          {
+            "id": 10,
+            "name": "BiliArtClub Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "&scaron;kolsk&aacute;, 045 01 Moldava nad Bodvou",
+            "web": "https://cuescore.com/venue/BiliArt+club+Moldava+n%252FB/2107799?lang=sk",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2041.2393746912605!2d20.997607290973942!3d48.612192536887065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737039558706!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 11,
+            "name": "Biliard & Dart Club Relax - Ko&scaron;ice",
+            "city": "Ko&scaron;ice",
+            "address": "Hlavn&aacute; 65, 1.poschodie - vchod cez HOSTINEC, Ko&scaron;ice",
+            "web": "https://www.facebook.com/RelaxBiliard/?locale=sk_SK",
+            "contact": "+421 556 250 568",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238.83692725012003!2d21.25765970021103!3d48.72205254144503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee064f8ebfae1%3A0x8b251eb92bfd4137!2sBiliard%20%26%20Dart%20Club%20Relax!5e1!3m2!1ssk!2ssk!4v1742490287434!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 12,
+            "name": "Arcadia Billiard Club",
+            "city": "Ko&scaron;ice",
+            "address": "Americk&aacute; trieda 11, 040 13 Ko&scaron;ice  S&iacute;dlisko &tcaron;ahanovce",
+            "web": "https://www.facebook.com/ArcadiaKosice/",
+            "contact": "+421 910 917 456",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2630.5103284199586!2d21.26659207704602!3d48.753049971318084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee0bf59963531%3A0x6bf978306ad233e5!2sArcadia%20Billiard%20Club!5e0!3m2!1ssk!2sus!4v1745504063790!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Bowling",
+        "description": "Bowling je &scaron;port, ktor&yacute; sa hraje na dr&aacute;he s desiatimi k&ocirc;l&ncaron;ami. Cie&lcaron;om je zb&uacute;ra&tcaron; v&scaron;etky k&ocirc;ly jedn&yacute;m hodom ve&lcaron;k&eacute;ho gu&lcaron;&ocirc;&ccaron;ku, naz&yacute;vanej bowlingov&aacute; gu&lcaron;a. Hr&aacute;&ccaron;i maj&uacute; na spr&aacute;vu desa&tcaron; pokusov, ktor&eacute; sa naz&yacute;vaj&uacute; hody. Ka&zcaron;d&yacute; hod m&ocirc;&zcaron;e ma&tcaron; maxim&aacute;lne 10 bodov, ak hr&aacute;&ccaron; zb&uacute;ra v&scaron;etky k&ocirc;ly.",
+        "picture": "https://fll.gymmoldava.sk/bowling.png",
+        "places": [
+          {
+            "id": 13,
+            "name": "Bowling K5 Moldava nad Bodvou",
+            "city": "Moldava nad Bodvou",
+            "address": "N&aacute;mestie &lcaron;udov&iacute;ta &scaron;t&uacute;ra 5, 045 01 Moldava nad Bodvou",
+            "web": "https://bowlingk5.sk/",
+            "contact": "+421 917 193 987",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5957.78281323917!2d20.997014854383078!3d48.61654614726962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBiliArtClub%20Moldava%20n%2FB.%20!5e1!3m2!1ssk!2ssk!4v1737037360195!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 14,
+            "name": "Bowling Club Watsonova",
+            "city": "Ko&scaron;ice",
+            "address": "Watsonova 4/A, 040 01 Ko&scaron;ice",
+            "web": "https://www.azet.sk/firma/62695/bowling-club/",
+            "contact": "+421 905 404 083",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238.7762425063425!2d21.241225227713603!3d48.73483085129974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee0f7bbbb5493%3A0x4c15249f9830d3d4!2sBowling%20Club%20Watsonova!5e1!3m2!1ssk!2ssk!4v1742490255252!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 15,
+            "name": "&scaron;portov&yacute; klub GBK",
+            "city": "Ge&ccaron;a",
+            "address": "Ge&ccaron;a 143, 044 10 Ge&ccaron;a",
+            "web": "https://www.azet.sk/firma/361958/sportovy-klub-gbk-kosice/",
+            "contact": "gbk@gbk.sk",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d25090.553316154186!2d21.31664748120475!3d48.622867010914916!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDjCsDM3JzI2LjEiTiAyMcKwMTgnNDkuOCJF!5e0!3m2!1ssk!2sus!4v1745503859892!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Futbal",
+        "description": "Futbal je najpopul&aacute;rnej&scaron;ia &scaron;portov&aacute; hra na svete ktor&aacute; je taktie&zcaron; skvel&yacute;m sp&ocirc;sobom ako str&aacute;vi&tcaron; svoj vo&lcaron;n&yacute; &ccaron;as.",
+        "picture": "https://fll.gymmoldava.sk/futbal.jpg",
+        "places": [
+          {
+            "id": 16,
+            "name": "Mestsk&yacute; &scaron;portov&yacute; klub Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 147/58, 045 01 Moldava nad Bodvou",
+            "web": "https://www.mskmoldava.sk/",
+            "contact": "+421 948 169 109",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d4082.582122254998!2d20.99569187023471!3d48.61091402731237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1zTWVzdHNrw70gxaFwb3J0b3bDvSBrbHViIE1vbGRhdmEgbi9CLg!5e1!3m2!1ssk!2ssk!4v1737037409367!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 17,
+            "name": "FC Ko&scaron;ice",
+            "city": "Vy&scaron;n&eacute; Op&aacute;tske",
+            "address": "Ju&zcaron;n&eacute; n&aacute;bre&zcaron;ie 2391, 040 01 Vy&scaron;n&eacute; Op&aacute;tske",
+            "web": "https://slovenskobcan.com/futbalove-ihrisko/kosicky/fc-kosice-treningove-centrum-vysne-opatske-stadion/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d955.7374870169151!2d21.279357109519808!3d48.70152853953445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sFutbalovy%20club%20kosice%20!5e1!3m2!1ssk!2ssk!4v1742489999542!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 18,
+            "name": "Futbalov&yacute; klub &ccaron;a&ncaron;a",
+            "city": "&ccaron;a&ncaron;a",
+            "address": "Oslobodite&lcaron;ov 18, 044 14 &ccaron;a&ncaron;a",
+            "web": "https://www.facebook.com/fkcana/",
+            "contact": "+421 905 271 276",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1319.0728573702315!2d21.330340598394773!3d48.607053999999984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f26b9a47c2431%3A0x184e6cd0f0074236!2zRnV0YmFsb3bDvSBLbHViIMSMYcWIYQ!5e0!3m2!1ssk!2sus!4v1745504163469!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Horolezectvo",
+        "description": "T&aacute;to fyzicky n&aacute;ro&ccaron;n&aacute; aktivita vy&zcaron;aduje kombin&aacute;ciu sily, vytrvalosti, technickej zru&ccaron;nosti a pl&aacute;novania. Horolezectvo nielen&zcaron;e poskytuje &uacute;&zcaron;asn&yacute; poh&lcaron;ad na krajinu, ale tie&zcaron; pr&iacute;le&zcaron;itos&tcaron; prekon&aacute;va&tcaron; svoje hranice a vyrovna&tcaron; sa s v&yacute;zvami.",
+        "picture": "https://fll.gymmoldava.sk/horolezectvo.jpg",
+        "places": [
+          {
+            "id": 19,
+            "name": "Horolezeck&yacute; klub Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "N&aacute;mestie mieru 910/5, 04501 Moldava nad Bodvou",
+            "web": "https://sport.iedu.sk/Company/Company/12423",
+            "contact": "+421 947 749 400",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d18479.409723462122!2d21.26759948197352!3d48.73152446818779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1shorolezeck%C3%BD%20klub%20bl%C3%ADzko%20Moldava%20n.Bodvou%20mesto%2C%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037440446!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 20,
+            "name": "HOROLEZECK&yacute; KLUB &zcaron;UL&aacute;K",
+            "city": "Ko&scaron;ice",
+            "address": "Lidick&eacute; n&aacute;mestie 898/14, 04022 Ko&scaron;ice",
+            "web": "https://www.zlatestranky.sk/firmy/Ko%C5%A1ice/H754008/HOROLEZECK%C3%9D+KLUB+%C5%BDUL%C3%81K/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d420.95642020834316!2d21.278473745976996!3d48.7407725773686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHorolezectvo%20club%20kosice%20!5e1!3m2!1ssk!2ssk!4v1742489421708!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 21,
+            "name": "Horolezeck&yacute; klub Rozlomity",
+            "city": "Ko&scaron;ice",
+            "address": "&scaron;tudentsk&aacute; 1, 040 01 Ko&scaron;ice",
+            "web": "http://www.rozlomity.sk/",
+            "contact": "rozlomity@rozlomity.sk?",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.2115073938744!2d21.25313217704544!3d48.73965637131641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee0f292c16885%3A0x692c6f86602b6218!2zxaB0dWRlbnRza8OhIDEsIDA0MCAwMSBLb8WhaWNlLCBTbG92ZW5za28!5e0!3m2!1ssk!2sus!4v1745509508949!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Lukostrelba",
+        "description": "T&aacute;to tradi&ccaron;n&aacute; aktivita kombinuje fyzick&uacute; zru&ccaron;nos&tcaron;, koncentr&aacute;ciu a silu. Lukostrelba nie len poskytuje pr&iacute;le&zcaron;itos&tcaron; pre zlep&scaron;ovanie presnosti a techniky strie&lcaron;ania, ale aj pr&iacute;jemn&yacute; sp&ocirc;sob tr&aacute;venia &ccaron;asu v pr&iacute;rode alebo na &scaron;peci&aacute;lnych lukostreln&yacute;ch dr&aacute;hach.",
+        "picture": "https://fll.gymmoldava.sk/lukostrelba.png",
+        "places": [
+          {
+            "id": 22,
+            "name": "Lukostreleck&yacute; Klub Jasov",
+            "city": "Moldava nad Bodvou",
+            "address": "N&aacute;mestie mieru 910/5, 04501 Moldava nad Bodvou",
+            "web": "https://www.lukostrelbajasov.sk/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2386.1115787118733!2d20.970957825376445!3d48.68407787968208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f0312e1e49c5b%3A0xefc2d22358187507!2sLukostreleck%C3%BD%20klub%20Jasov!5e1!3m2!1ssk!2ssk!4v1737037541979!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 23,
+            "name": "X10 Academy 1. Lukostreleck&aacute; akad&eacute;mia",
+            "city": "Ko&scaron;ice",
+            "address": "Pri hati 3584/10, 040 01 Ko&scaron;ice",
+            "web": "https://www.lukostrelecka-akademia.sk/index.php/kontakt/?utm_source=chatgpt.com",
+            "contact": "+421 915 633 116",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d164.4283694427687!2d21.259474711870798!3d48.74648735556151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1slukostrelba%20kosice!5e0!3m2!1ssk!2ssk!4v1744286561566!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Posil&ncaron;ovanie",
+        "description": "Toto hobby m&ocirc;&zcaron;e zahr&ncaron;ova&tcaron; cvi&ccaron;enia s vlastnou v&aacute;hou, cvi&ccaron;enia s posil&ncaron;ovac&iacute;mi strojmi, alebo pou&zcaron;&iacute;vanie vo&lcaron;n&yacute;ch &ccaron;iniek a &dcaron;al&scaron;&iacute;ch cvi&ccaron;ebn&yacute;ch pom&ocirc;cok. Posilovanie nielen&zcaron;e prispieva k fyzickej kond&iacute;cii a zlep&scaron;uje svalov&uacute; toniz&aacute;ciu, ale aj podporuje celkov&eacute; zdravie kost&iacute;, pom&aacute;ha udr&zcaron;iava&tcaron; zdrav&uacute; hmotnos&tcaron; a zvy&scaron;uje energetick&uacute; &uacute;rove&ncaron;.",
+        "picture": "https://fll.gymmoldava.sk/cvicenie.jpg",
+        "places": [
+          {
+            "id": 24,
+            "name": "Grizzly Fitness Club Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "N&aacute;mestie mieru 20, 045 01 Moldava nad Bodvou",
+            "web": "http://www.najfitness.sk/moldava-nad-bodvou/grizzly-fitness-club/",
+            "contact": "+421 918 181 863",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3832.681624875155!2d20.996326777387157!3d48.61856467130062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b06942760bf%3A0x366d79894bef6d80!2sGrizzly%20Fitness!5e1!3m2!1ssk!2ssk!4v1737037563932!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 25,
+            "name": "Iron brothers gym",
+            "city": "Ko&scaron;ice",
+            "address": "Trieda SNP 339/88, 040 11 Ko&scaron;ice",
+            "web": "https://www.facebook.com/iron.brothers.kosice/",
+            "contact": "+421 915 494 925",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d238.90416278607447!2d21.23622942678073!3d48.70789191751018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sPosil%C5%88ovanie%20club%20kosice%20!5e1!3m2!1ssk!2ssk!4v1742489238582!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 26,
+            "name": "Bodva Sport Club",
+            "city": "Ko&scaron;ice",
+            "address": "Krosnianska 8, 040 22 Ko&scaron;ice",
+            "web": "https://www.bodvasportclub.sk/",
+            "contact": "+421 915 324 779",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.133781174045!2d21.28032019285859!3d48.74114119735836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee1b8497b9e7f%3A0x3495dfb463b515ee!2sBodva%20Sport%20Club!5e0!3m2!1ssk!2sus!4v1745509148018!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Rekrea&ccaron;n&yacute; &scaron;port",
+        "description": "&scaron;porty, ktor&eacute; nevy&zcaron;aduju by&tcaron; &ccaron;lenom &zcaron;iadnej organiz&aacute;cie a stret&aacute;vania sa pravidelne. &ccaron;lovek sa iba zoberie ke&dcaron; chce a ide hra&tcaron;. &scaron;porty, ktore sem patria su: volejbal, futbal, tenis, basketbal alebo cyklistika.",
+        "picture": "https://fll.gymmoldava.sk/rek.png",
+        "places": [
+          {
+            "id": 27,
+            "name": "Viacu&ccaron;elov&eacute; &scaron;portove ihrisko pod kopcom, Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Svat&eacute;ho R&oacute;cha 25, Moldava nad Bodvou",
+            "web": "https://www.facebook.com/p/%C5%A0portov%C3%BD-Are%C3%A1l-Pod-Kopcom-Moldava-nad-Bodvou-100063528694261/",
+            "contact": "+421 903 712 927",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3832.5495445092497!2d20.987989177387096!3d48.62030427130082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b9d42d40da3%3A0xfb4e2e78d8a9bc33!2zVmlhY8O6xI1lbG92w6kgxaFwb3J0b3bDqSBpaHJpc2tv!5e1!3m2!1ssk!2ssk!4v1737037649483!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Stolny tenis",
+        "description": "Stoln&yacute; tenis, zn&aacute;my aj ako ping pong, je vzru&scaron;uj&uacute;ci &scaron;port, kde hr&aacute;&ccaron;i prehadzuj&uacute; lopticu cez stoln&yacute; st&ocirc;l s raketami. Vy&zcaron;aduje reakcie, techniku a v&yacute;dr&zcaron; na r&ocirc;znych &uacute;rovniach zru&ccaron;nost&iacute;.",
+        "picture": "https://fll.gymmoldava.sk/stolnytenis.png",
+        "places": [
+          {
+            "id": 28,
+            "name": "Stolnotenisov&yacute; klub S&scaron;K Popro&ccaron;",
+            "city": "Popro&ccaron;",
+            "address": "&scaron;kolsk&aacute; 633/3, 044 24 Popro&ccaron;",
+            "web": "https://poproc.sk/obec/organizacie/stolnotenisovy-sportovy-klub-poproc/",
+            "contact": "+421 903 546 230",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1269.9696195677002!2d20.972331249153857!3d48.71117728721726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f031ede96ff6d%3A0x839cdb98baa4531c!2sOFK%20Slovan%20Popro%C4%8D!5e1!3m2!1ssk!2ssk!4v1737037712739!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 29,
+            "name": "Stolno-tenisov&yacute; klub STADEX",
+            "city": "Ko&scaron;ice",
+            "address": "Palack&eacute;ho 1428/14, 04001 Ko&scaron;ice",
+            "web": "https://www.zlatestranky.sk/firmy/Ko%C5%A1ice/H344620/Stolno-tenisov%C3%BD+klub+STADEX/",
+            "contact": "+421 556 780 318",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d448.5050376293639!2d21.273138330014024!3d48.72179455208988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sStolny%20tenis%20club%20kosice%20!5e1!3m2!1ssk!2ssk!4v1742488881457!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 30,
+            "name": "&scaron;STK JUNIOR &ccaron;a&ncaron;a",
+            "city": "&ccaron;a&ncaron;a",
+            "address": "Pionierska 33, 044 14 &ccaron;a&ncaron;a",
+            "web": "https://www.zscana.sk/",
+            "contact": "zscana@zscana.sk",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2637.894510894005!2d21.323837377039517!3d48.611862471299816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f26c9e2c78cdb%3A0xdd25cc003a4e178b!2sPionierska%201145%2F33%2C%20044%2014%20%C4%8Ca%C5%88a%2C%20Slovensko!5e0!3m2!1ssk!2sus!4v1745507868012!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Tenis",
+        "description": "Tenis je &scaron;port, ktor&yacute; sa hr&aacute; medzi dvoma hr&aacute;&ccaron;mi (singles) alebo &scaron;tyrmi hr&aacute;&ccaron;mi (doubles) na kurtu s &ccaron;iarou na hru. Cie&lcaron;om hry je posla&tcaron; loptu do siete tak, aby s&uacute;per nemohol loptu vr&aacute;ti&tcaron;.",
+        "picture": "https://fll.gymmoldava.sk/tenis.jpg",
+        "places": [
+          {
+            "id": 31,
+            "name": "Tenis club Moldava n/B",
+            "city": "Moldava nad Bodvou",
+            "address": "Ko&scaron;ick&aacute; 220/3, Moldava nad Bodvou",
+            "web": "https://www.facebook.com/tenismoldava/?locale=sk_SK",
+            "contact": "+421 905 900 638",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1086.957337470945!2d20.992563676440408!3d48.61426374865915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037753050!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 32,
+            "name": "Tenis club BD, Ko&scaron;ice",
+            "city": "Ko&scaron;ice",
+            "address": "Wuppert&aacute;lska 4, 040 23 S&iacute;dlisko KVP, Ko&scaron;ice",
+            "web": "https://www.sportoviska.sk/tenis/kosicky/tenis-club-bd-kosice",
+            "contact": "+421 905 627 651",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d508.9515266658566!2d21.251083244863963!3d48.701369820005795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sTenis%20club%20kosice%20!5e1!3m2!1ssk!2ssk!4v1742488583480!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 33,
+            "name": "Tenisov&yacute; klub &ccaron;a&ncaron;a",
+            "city": "&ccaron;a&ncaron;a",
+            "address": "Pionierska 33, 044 14 &ccaron;a&ncaron;a",
+            "web": "https://www.finstat.sk/42328004?utm_source=chatgpt.com",
+            "contact": "zscana@zscana.sk",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2637.894510894005!2d21.323837377039517!3d48.611862471299816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f26c9e2c78cdb%3A0xdd25cc003a4e178b!2sPionierska%201145%2F33%2C%20044%2014%20%C4%8Ca%C5%88a%2C%20Slovensko!5e0!3m2!1ssk!2sus!4v1745507868012!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Volejbal",
+        "description": "Volejbal je loptov&aacute; hra, kde hraj&uacute; proti sebe dva t&yacute;mi, ktor&eacute; si prehadzuj&uacute; loptu cez sie&tcaron; k&yacute;m lopta nespadne alebo nevylet&iacute; z ihriska",
+        "picture": "https://fll.gymmoldava.sk/volejbal.jpg",
+        "places": [
+          {
+            "id": 34,
+            "name": "Athletic Legion Club Moldava n/B.",
+            "city": "Ko&scaron;ice",
+            "address": "&ccaron;eskoslovenskej arm&aacute;dy 39, 045 01 Moldava nad Bodvou",
+            "web": "https://www.facebook.com/p/Athletic-Legion-Club-Moldava-Nad-Bodvou-100063480585243/?locale=sk_SK",
+            "contact": "+421 902 289 279",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1489.541198411739!2d20.99268077012522!3d48.61330933311499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037775979!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 35,
+            "name": "Vk slavia tu Ko&scaron;ice",
+            "city": "Ko&scaron;ice",
+            "address": "Letn&aacute; 9, 040 01 Ko&scaron;ice",
+            "web": "https://vkslaviatuke.sk/",
+            "contact": "+421 911 990 900",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d790.6644560436849!2d21.245104174252806!3d48.73017969989591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee05f179aec41%3A0x63a51d9c3b1c35f4!2sVolejbalov%C3%BD%20klub%20Sl%C3%A1via%20TU%20Ko%C5%A1ice!5e1!3m2!1ssk!2ssk!4v1742488204213!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 36,
+            "name": "Z&aacute;kladn&aacute; &scaron;kola &ccaron;a&ncaron;a  Volejbalov&yacute; kr&uacute;&zcaron;ok",
+            "city": "&ccaron;a&ncaron;a",
+            "address": "Pionierska 33, 044 14 &ccaron;a&ncaron;a",
+            "web": "https://www.zscana.sk/",
+            "contact": "zscana@zscana.sk",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2637.894510894005!2d21.323837377039517!3d48.611862471299816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f26c9e2c78cdb%3A0xdd25cc003a4e178b!2sPionierska%201145%2F33%2C%20044%2014%20%C4%8Ca%C5%88a%2C%20Slovensko!5e0!3m2!1ssk!2sus!4v1745507868012!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Z&aacute;pasenie",
+        "description": "Z&aacute;pasenie je s&uacute;bojov&yacute; &scaron;port, kde dva s&uacute;peria sna&zcaron;ia ovl&aacute;dnu&tcaron; jeden druh&eacute;ho pomocou r&ocirc;znych chytov a techn&iacute;k. Hr&aacute;&ccaron;i kombinuj&uacute; silu, obratnos&tcaron; a strat&eacute;gie v boji o prevahu na matraci",
+        "picture": "https://fll.gymmoldava.sk/zapasenie.png",
+        "places": [
+          {
+            "id": 37,
+            "name": "Z&aacute;pasn&iacute;cky klub Moldava n/B.",
+            "city": "Ko&scaron;ice",
+            "address": "U&zcaron;horodsk&aacute; 1037/21, 04011 Ko&scaron;ice - Juh",
+            "web": "https://sport.iedu.sk/Company/Company/13159",
+            "contact": "+421 902 111 985",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d578.8482829197458!2d20.995690863170676!3d48.61241837101603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stenis%20bl%C3%ADzko%20Moldava%20nad%20Bodvou!5e1!3m2!1ssk!2ssk!4v1737037857068!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 38,
+            "name": "Z&aacute;pasn&iacute;cky klub Ko&scaron;ice 1904",
+            "city": "Ko&scaron;ice",
+            "address": "Trieda SNP 61/040 11, 040 11 Ko&scaron;ice - mestsk&aacute; &ccaron;as&tcaron; Z&aacute;pad",
+            "web": "http://www.zapasenie-kosice.sk/kontakty.phtml?id5=7015",
+            "contact": "+421 903 749 820",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d359.8416188354674!2d21.241123105266503!3d48.70716460312467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee1005b97362b%3A0xff65cf8643ac8702!2zWsOhcGFzbsOtY2t5IGtsdWIgS2_FoWljZSAxOTA0!5e1!3m2!1ssk!2ssk!4v1742488700106!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 39,
+            "name": "Wrestling Jedla Ko&scaron;ice",
+            "city": "Ko&scaron;ice",
+            "address": "Hemerkova 1306/1, 040 23 Ko&scaron;ice",
+            "web": "https://www.wrestlingjedla.sk/",
+            "contact": "+421 902 372 621",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.318318951366!2d21.2046791770445!3d48.718508971313504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee1ca9c897ba7%3A0xfd7b053427b81c31!2sHemerkova%201306%2F1%2C%20040%2023%20Ko%C5%A1ice%2C%20Slovensko!5e0!3m2!1ssk!2sus!4v1745508361459!5m2!1ssk!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Umelecké",
+    "color": "#ef9849",
+    "subcategories": [
+      {
+        "id": 15,
+        "name": "Divadlo",
+        "description": "Divadlo ako hobby je formou umenia, kde &lcaron;udia prezentuj&uacute; pr&iacute;behy a postavy prostredn&iacute;ctvom herectva a scenick&eacute;ho umenia. &uacute;&ccaron;astn&iacute;ci vytv&aacute;raj&uacute; a interpretuj&uacute; r&ocirc;zne postavy, vyjadruj&uacute; em&oacute;cie a komunikuj&uacute; s publikom.",
+        "picture": "https://fll.gymmoldava.sk/Div.png",
+        "places": [
+          {
+            "id": 40,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 41,
+            "name": "Mestsk&eacute; divadlo Ko&scaron;ice",
+            "city": "Ko&scaron;ice",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://www.mestskedivadlokosice.sk/",
+            "contact": "+421 556 827 155",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.150080786947!2d21.25478107636653!3d48.72172387131397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee0650621e305%3A0x37b29ac181ac75f9!2zTsOhcm9kbsOpIGRpdmFkbG8gS2_FoWljZQ!5e0!3m2!1ssk!2ssk!4v1744288011204!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Fotografia",
+        "description": "Fotografia je umenie zachyt&aacute;vania okamihov a vytv&aacute;rania vizu&aacute;lnych pr&iacute;behov pomocou fotoapar&aacute;tu. Fotografiou m&ocirc;&zcaron;ete zachyti&tcaron; kr&aacute;su okolo seba, vyjadri&tcaron; em&oacute;cie a zaznamena&tcaron; d&ocirc;le&zcaron;it&eacute; udalosti.",
+        "picture": "https://fll.gymmoldava.sk/fotografia.png",
+        "places": [
+          {
+            "id": 42,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 43,
+            "name": "VAV Akademy",
+            "city": "Ko&scaron;ice",
+            "address": "Ju&zcaron;n&aacute; trieda 2/A, Ko&scaron;ice",
+            "web": "https://www.vavakademy.sk/kurz-fotografovania",
+            "contact": "+421 917 148 136",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2645.4464899004067!2d21.25180331565234!3d48.70717697927214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee0caa07a2c85%3A0x3f0f5fddc1accc48!2sVA%20Academy%2C%20Ju&zcaron;n&aacute;%20trieda%202%2FA%2C%20040%2001%20Ko&scaron;ice!5e0!3m2!1ssk!2ssk!4v1683220490000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Kreslenie",
+        "description": "Kreslenie je tvoriv&yacute; proces, pri ktorom jednotlivci vytv&aacute;raj&uacute; obr&aacute;zky pomocou pera, ceruzky, alebo in&yacute;ch m&eacute;dii. T&aacute;to forma sebarealiz&aacute;cie a vyjadrenia n&aacute;padov umo&zcaron;&ncaron;uje umelcom pren&aacute;&scaron;a&tcaron; svoju predstavivos&tcaron; na papier.",
+        "picture": "https://fll.gymmoldava.sk/kreslenie.jpg",
+        "places": [
+          {
+            "id": 44,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 45,
+            "name": "Ateli&eacute;r \"Umeleck&eacute; die&lcaron;ne",
+            "city": "Ko&scaron;ice",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://salon-expert.sk/detail/36132",
+            "contact": "+421 903 010 707",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.0279918027486!2d21.253479888263115!3d48.724056797350336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee06389c0004b%3A0xc76974b951e93604!2sAtelier%20Carolina%20Rosenberger!5e0!3m2!1ssk!2ssk!4v1744288042709!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 46,
+            "name": "Klub v&yacute;tvarn&eacute;ho umenia Popro&ccaron;",
+            "city": "Popro&ccaron;",
+            "address": "Kult&uacute;rny dom Popro&ccaron;, &scaron;kolsk&aacute; 2, 044 24 Popro&ccaron;",
+            "web": "https://poproc.sk/aktuality/kultura/tvorive-dielne-malovanie-a-kreslenie-5/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.123456789!2d20.9934567!3d48.6131234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2sKult%C3%BArny%20dom%20Popro%C4%8D!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Ma&lcaron;ovanie",
+        "description": "Ma&lcaron;ovanie je kreat&iacute;vna &ccaron;innos&tcaron;, pri ktorej sa umelci vyjadruj&uacute; pomocou farieb a &scaron;tetiec. M&ocirc;&zcaron;e sl&uacute;&zcaron;i&tcaron; nielen ako v&yacute;raz umenia, ale aj ako terapeutick&aacute; aktivita, ktor&aacute; podporuje relax&aacute;ciu a vyjadrenie em&oacute;ci&iacute;.",
+        "picture": "https://fll.gymmoldava.sk/malovanie.png",
+        "places": [
+          {
+            "id": 47,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 48,
+            "name": "Ateli&eacute;r \"Umeleck&eacute; die&lcaron;ne",
+            "city": "Ko&scaron;ice",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://salon-expert.sk/detail/36132",
+            "contact": "+421 903 010 707",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.0279918027486!2d21.253479888263115!3d48.724056797350336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee06389c0004b%3A0xc76974b951e93604!2sAtelier%20Carolina%20Rosenberger!5e0!3m2!1ssk!2ssk!4v1744288042709!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Tvoriv&eacute; dielne",
+        "description": "Tvoriv&eacute; dielne s&uacute; z&aacute;bavn&yacute;m hobby, kde sa &lcaron;udia venuj&uacute; vlastnoru&ccaron;n&eacute;mu tvoreniu umenia pomocou r&ocirc;znych materi&aacute;lov a techn&iacute;k. Tieto dielne podporuj&uacute; kreativitu a zdie&lcaron;anie n&aacute;padov.",
+        "picture": "https://fll.gymmoldava.sk/tvorive.png",
+        "places": [
+          {
+            "id": 49,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 50,
+            "name": "OZ Tvoriv&aacute; diel&ncaron;a",
+            "city": "Ko&scaron;ice",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://www.oztvorivadielna.sk/o-nas",
+            "contact": "+421 917 188 802",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.6032455973213!2d21.25605227636711!3d48.732172371315286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee08a4a08a01d%3A0x64d5c6e66cc509af!2zT1ogVHZvcml2w6EgZGllbMWIYQ!5e0!3m2!1ssk!2ssk!4v1744288107151!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 51,
+            "name": "Tvoriv&eacute; diel&ncaron;e",
+            "city": "Popro&ccaron;",
+            "address": "Kult&uacute;rny dom Popro&ccaron;, &scaron;kolsk&aacute; 2, 044 24 Popro&ccaron;",
+            "web": "https://poproc.sk/aktuality/kultura/velkonocne-tvorive-dielne-4/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.123456789!2d20.9934567!3d48.6131234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2sKult%C3%BArny%20dom%20Popro%C4%8D!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hudobné",
+    "color": "#fcd6a5",
+    "subcategories": [
+      {
+        "id": 20,
+        "name": "Akorde&oacute;n",
+        "description": "Harmonika m&aacute; charakteristick&yacute; zvuk a je schopn&aacute; hra&tcaron; r&ocirc;zne hudobn&eacute; &zcaron;&aacute;nre, od &lcaron;udovej hudby a&zcaron; po modern&eacute; skladby. Toto hobby vy&zcaron;aduje zru&ccaron;nos&tcaron; v ovl&aacute;dan&iacute; kl&aacute;ves a bal&oacute;nika (membr&aacute;ny) harmoniky.",
+        "picture": "https://fll.gymmoldava.sk/harmonika.png",
+        "places": [
+          {
+            "id": 52,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 53,
+            "name": "Konzervat&oacute;rium Petra Dvorsk&eacute;ho",
+            "city": "Ko&scaron;ice",
+            "address": "Timonova 2, 040 01 Ko&scaron;ice",
+            "web": "https://konke.sk/akordeonove-oddelenie/",
+            "contact": "+421 556 222 092",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d658.0836218281805!2d21.256289269629114!3d48.71819999820713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDjCsDQzJzA1LjUiTiAyMcKwMTUnMjUuMCJF!5e0!3m2!1ssk!2ssk!4v1744285342351!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 54,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Bicie",
+        "description": "Bicie m&ocirc;&zcaron;u zah&racute;&ncaron;a&tcaron; r&ocirc;zne n&aacute;stroje, ako s&uacute; bubny, &ccaron;inely, tomtomy a perkusie. Toto hobby vy&zcaron;aduje koordin&aacute;ciu medzi rukami a nohami, rytmick&uacute; presnos&tcaron; a schopnos&tcaron; udr&zcaron;a&tcaron; tempo.",
+        "picture": "https://fll.gymmoldava.sk/bicie.jpg",
+        "places": [
+          {
+            "id": 55,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 56,
+            "name": "ZU&scaron; MI&scaron;KOVECK&aacute; 20",
+            "city": "Ko&scaron;ice",
+            "address": "Mi&scaron;koveck&aacute; 20, 040 11 Ko&scaron;ice",
+            "web": "https://muzikalskola.sk/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.214641774478!2d21.25217767629616!3d48.70137827131123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee008e1301729%3A0xdc44c2c998a56631!2zTWnFoWtvdmVja8OhIDEwMjYvMjAsIDA0MCAxMSBLb8WhaWNl!5e0!3m2!1ssk!2ssk!4v1742471855952!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 57,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Flauta",
+        "description": "Flauta patr&iacute; k skupine dychov&yacute;ch n&aacute;strojov, a jej hra zahr&ncaron;uje techniku d&yacute;chania, presnosti prstov a v&yacute;razn&eacute;ho hrania. Toto hobby poskytuje pr&iacute;le&zcaron;itos&tcaron; pre objavovanie r&ocirc;znych hudobn&yacute;ch &scaron;t&yacute;lov od klasiky a&zcaron; po modern&eacute; skladby.",
+        "picture": "https://fll.gymmoldava.sk/flauta.png",
+        "places": [
+          {
+            "id": 58,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 59,
+            "name": "ZU&scaron; MI&scaron;KOVECK&aacute; 20",
+            "city": "Ko&scaron;ice",
+            "address": "Mi&scaron;koveck&aacute; 20, 040 11 Ko&scaron;ice",
+            "web": "https://muzikalskola.sk/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.214641774478!2d21.25217767629616!3d48.70137827131123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee008e1301729%3A0xdc44c2c998a56631!2zTWnFoWtvdmVja8OhIDEwMjYvMjAsIDA0MCAxMSBLb8WhaWNl!5e0!3m2!1ssk!2ssk!4v1742471855952!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 60,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Gitara",
+        "description": "Hra na gitaru je p&uacute;tav&yacute; sp&ocirc;sob, ako prejavi&tcaron; hudobn&uacute; kreativitu a relaxova&tcaron;. Toto hobby umo&zcaron;&ncaron;uje jednotlivcom nau&ccaron;i&tcaron; sa r&ocirc;zne akordy, mel&oacute;die a techniky hrania na tento hudobn&yacute; n&aacute;stroj.",
+        "picture": "https://fll.gymmoldava.sk/gita.jpg",
+        "places": [
+          {
+            "id": 61,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 62,
+            "name": "ZU&scaron; MI&scaron;KOVECK&aacute; 20",
+            "city": "Ko&scaron;ice",
+            "address": "Mi&scaron;koveck&aacute; 20, 040 11 Ko&scaron;ice",
+            "web": "https://muzikalskola.sk/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.214641774478!2d21.25217767629616!3d48.70137827131123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee008e1301729%3A0xdc44c2c998a56631!2zTWnFoWtvdmVja8OhIDEwMjYvMjAsIDA0MCAxMSBLb8WhaWNl!5e0!3m2!1ssk!2ssk!4v1742471855952!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 63,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Husle",
+        "description": "Hra na husle ako hobby je vo&lcaron;no&ccaron;asov&aacute; aktivita, zah&racute;&ncaron;a u&ccaron;enie sa techniky, &ccaron;&iacute;tanie n&ocirc;t a interpret&aacute;ciu hudobn&yacute;ch skladieb r&ocirc;znych &scaron;t&yacute;lov. Toto hobby podporuje trpezlivos&tcaron;, jemn&uacute; motoriku a hudobn&eacute; c&iacute;tenie.",
+        "picture": "https://fll.gymmoldava.sk/husle.jpg",
+        "places": [
+          {
+            "id": 64,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 65,
+            "name": "Konzervat&oacute;rium Petra Dvorsk&eacute;ho",
+            "city": "Ko&scaron;ice",
+            "address": "Timonova 2, 040 01 Ko&scaron;ice",
+            "web": "https://konke.sk/akordeonove-oddelenie/",
+            "contact": "+421 556 222 092",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d658.0836218281805!2d21.256289269629114!3d48.71819999820713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDjCsDQzJzA1LjUiTiAyMcKwMTUnMjUuMCJF!5e0!3m2!1ssk!2ssk!4v1744285342351!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Klav&iacute;r",
+        "description": "Hranie na klav&iacute;r je n&aacute;dhern&yacute; sp&ocirc;sob vyjadrovania hudobn&yacute;ch citov a kreativity. Toto hobby umo&zcaron;&ncaron;uje jednotlivcom objavova&tcaron; r&ocirc;zne hudobn&eacute; &zcaron;&aacute;nre, cvi&ccaron;i&tcaron; techniku a vytv&aacute;ra&tcaron; kr&aacute;sne mel&oacute;die.",
+        "picture": "https://fll.gymmoldava.sk/klavir.png",
+        "places": [
+          {
+            "id": 66,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 67,
+            "name": "ZU&scaron; MI&scaron;KOVECK&aacute; 20",
+            "city": "Ko&scaron;ice",
+            "address": "Mi&scaron;koveck&aacute; 20, 040 11 Ko&scaron;ice",
+            "web": "https://muzikalskola.sk/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.214641774478!2d21.25217767629616!3d48.70137827131123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee008e1301729%3A0xdc44c2c998a56631!2zTWnFoWtvdmVja8OhIDEwMjYvMjAsIDA0MCAxMSBLb8WhaWNl!5e0!3m2!1ssk!2ssk!4v1742471855952!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 68,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Saxof&oacute;n",
+        "description": "Hra na saxof&oacute;n je v&aacute;biv&yacute; sp&ocirc;sob prejavu hudobn&yacute;ch citov a individuality. Toto hobby umo&zcaron;&ncaron;uje jednotlivcom objavova&tcaron; r&ocirc;zne hudobn&eacute; &zcaron;&aacute;nre, od jazzu a blues po klasiku a pop.",
+        "picture": "https://fll.gymmoldava.sk/saxofon.png",
+        "places": [
+          {
+            "id": 69,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 70,
+            "name": "ZU&scaron; MI&scaron;KOVECK&aacute; 20",
+            "city": "Ko&scaron;ice",
+            "address": "Mi&scaron;koveck&aacute; 20, 040 11 Ko&scaron;ice",
+            "web": "https://muzikalskola.sk/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.214641774478!2d21.25217767629616!3d48.70137827131123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee008e1301729%3A0xdc44c2c998a56631!2zTWnFoWtvdmVja8OhIDEwMjYvMjAsIDA0MCAxMSBLb8WhaWNl!5e0!3m2!1ssk!2ssk!4v1742471855952!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 71,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Spev",
+        "description": "Spev je n&aacute;dhern&yacute; sp&ocirc;sob, ako prejavi&tcaron; hudobn&uacute; v&aacute;&scaron;e&ncaron; a vyjadri&tcaron; em&oacute;cie prostredn&iacute;ctvom hlasu. Toto hobby umo&zcaron;&ncaron;uje jednotlivcom objavova&tcaron; r&ocirc;zne hudobn&eacute; &zcaron;&aacute;nre, rozv&iacute;ja&tcaron; hlasov&eacute; schopnosti a prehlbova&tcaron; sa v umen&iacute; spevu.",
+        "picture": "https://fll.gymmoldava.sk/spev.png",
+        "places": [
+          {
+            "id": 72,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 73,
+            "name": "Konzervat&oacute;rium Petra Dvorsk&eacute;ho",
+            "city": "Ko&scaron;ice",
+            "address": "Timonova 2, 040 01 Ko&scaron;ice",
+            "web": "https://konke.sk/akordeonove-oddelenie/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d658.0836218281805!2d21.256289269629114!3d48.71819999820713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDjCsDQzJzA1LjUiTiAyMcKwMTUnMjUuMCJF!5e0!3m2!1ssk!2ssk!4v1744285342351!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 74,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Trubka",
+        "description": "Hra na trubku je fascinuj&uacute;ce hudobn&eacute; hobby, ktor&eacute; umo&zcaron;&ncaron;uje jednotlivcom prejavi&tcaron; sa prostredn&iacute;ctvom zvuku tohto mosadzn&eacute;ho dychov&eacute;ho n&aacute;stroja. Hra na trubku pon&uacute;ka pestros&tcaron; od klasick&yacute;ch a&zcaron; po modern&eacute; hudobn&eacute; &zcaron;&aacute;nre.",
+        "picture": "https://fll.gymmoldava.sk/trubka.png",
+        "places": [
+          {
+            "id": 75,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 76,
+            "name": "Konzervat&oacute;rium Petra Dvorsk&eacute;ho",
+            "city": "Ko&scaron;ice",
+            "address": "Timonova 2, 040 01 Ko&scaron;ice",
+            "web": "https://konke.sk/akordeonove-oddelenie/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d658.0836218281805!2d21.256289269629114!3d48.71819999820713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDjCsDQzJzA1LjUiTiAyMcKwMTUnMjUuMCJF!5e0!3m2!1ssk!2ssk!4v1744285342351!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 77,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Violon&ccaron;elo",
+        "description": "Hra na violon&ccaron;elo je p&ocirc;sobiv&yacute; sp&ocirc;sob vyjadrovania hlb&scaron;&iacute;ch hudobn&yacute;ch citov a tvorby n&aacute;dhern&yacute;ch melodick&yacute;ch l&iacute;ni&iacute;. Toto kreat&iacute;vne hobby umo&zcaron;&ncaron;uje jednotlivcom prejavi&tcaron; sa v r&aacute;mci klasickej hudby, komorn&yacute;ch skup&iacute;n alebo modern&yacute;ch &zcaron;&aacute;nrov.",
+        "picture": "https://fll.gymmoldava.sk/violoncelo.png",
+        "places": [
+          {
+            "id": 78,
+            "name": "ZU&scaron; Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 1281, 045 01 Moldava nad Bodvou",
+            "web": "https://zusmoldava.edupage.org/?fbclid=IwAR3MAvrm4Jdiq3nBKbfEaC1nc6z0yQ5ntnLuI9vPragSnrHSfgNN3vLnY1g",
+            "contact": "+421 948 151 037",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452.828202480145!2d21.00037858889622!3d48.614139243826244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1b00883d385b%3A0x3095bae111e1bf01!2zWsOha2xhZG7DoSBVbWVsZWNrw6EgxaBrb2xh!5e0!3m2!1ssk!2ssk!4v1737032533691!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 79,
+            "name": "Konzervat&oacute;rium Petra Dvorsk&eacute;ho",
+            "city": "Ko&scaron;ice",
+            "address": "Timonova 2, 040 01 Ko&scaron;ice",
+            "web": "https://konke.sk/akordeonove-oddelenie/",
+            "contact": "+421 556 857 811",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d658.0836218281805!2d21.256289269629114!3d48.71819999820713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDjCsDQzJzA1LjUiTiAyMcKwMTUnMjUuMCJF!5e0!3m2!1ssk!2ssk!4v1744285342351!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 80,
+            "name": "ZU&scaron; Medzev",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 159, 04425 Medzev",
+            "web": "http://www.zusmedzev.sk/o-skole/studijne-odbory/hudobny-odbor/",
+            "contact": "+421 918 628 915",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164.57165056672028!2d20.88711100601885!3d48.702682506573275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d968bb0cb7%3A0x97a36544fbf00268!2zWsOha2xhZG7DoSB1bWVsZWNrw6EgxaFrb2xhIHYgTWVkemV2ZQ!5e0!3m2!1ssk!2ssk!4v1745494458720!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dobrodružné",
+    "color": "#7ba8a3",
+    "subcategories": [
+      {
+        "id": 30,
+        "name": "3D minigolf",
+        "description": "3D minigolf je modern&aacute; verzia klasick&eacute;ho minigolfu, ktor&aacute; kombinuje minigolfov&eacute; dr&aacute;hy s trojrozmern&yacute;mi vizu&aacute;lnymi efektmi, &ccaron;asto v podobe UV svetla, fosforeskuj&uacute;cich farieb alebo virtu&aacute;lnej reality. Hr&aacute;&ccaron;i prekon&aacute;vaj&uacute; r&ocirc;zne prek&aacute;&zcaron;ky a tematick&eacute; scen&eacute;rie.",
+        "picture": "https://fll.gymmoldava.sk/minigolf.png",
+        "places": [
+          {
+            "id": 81,
+            "name": "Laser Game a 3D minigolf",
+            "city": "Ko&scaron;ice",
+            "address": "Laser Ar&eacute;na Ko&scaron;ice, Jarmo&ccaron;n&aacute; 2, 04001",
+            "web": "https://www.laserarenakosice.sk",
+            "contact": "+421 902 799 675",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59543.28934561467!2d21.173095661241998!3d48.7347853316339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473edfdfc6e13e9f%3A0x6203d0f2b8d9b6d0!2zTGFzZXIgQXLDqW5hIEtvxaFpY2U!5e0!3m2!1ssk!2ssk!4v1744287004318!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Cestovanie",
+        "description": "Cestovanie je vzru&scaron;uj&uacute;ce a obohacuj&uacute;ce hobby, ktor&eacute; umo&zcaron;&ncaron;uje objavova&tcaron; nov&eacute; miesta, kult&uacute;ry a z&aacute;&zcaron;itky. Cestovanie pon&uacute;ka pr&iacute;le&zcaron;itos&tcaron; stret&aacute;va&tcaron; nov&yacute;ch &lcaron;ud&iacute;, sk&uacute;ma&tcaron; hist&oacute;riu a pr&iacute;rodu, a roz&scaron;irova&tcaron; vlastn&eacute; hranice.",
+        "picture": "https://fll.gymmoldava.sk/cestovanie.png",
+        "places": [
+          {
+            "id": 82,
+            "name": "internet",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://cp.hnonline.sk/vlakbusmhd/spojenie/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Escape Rooms",
+        "description": "Escape room (&uacute;nikov&aacute; miestnos&tcaron;) je interakt&iacute;vna hra, v ktorej je skupina hr&aacute;&ccaron;ov \"zamknut&aacute;\" v tematickej miestnosti a mus&iacute; v &ccaron;asovom limite vyrie&scaron;i&tcaron; s&eacute;riu logick&yacute;ch h&aacute;daniek, &uacute;loh a n&aacute;js&tcaron; stopy, aby sa dostala von. Hra kladie d&ocirc;raz na t&iacute;mov&uacute; spolupr&aacute;cu, komunik&aacute;ciu a r&yacute;chle myslenie.",
+        "picture": "https://fll.gymmoldava.sk/escape.png",
+        "places": [
+          {
+            "id": 83,
+            "name": "Escape Rooms",
+            "city": "Ko&scaron;ice",
+            "address": "Al&zcaron;betina 41, Ko&scaron;ice",
+            "web": "https://www.therooms.eu/",
+            "contact": "+421 948 378 395",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5264.207416625842!2d21.252357346777227!3d48.722609985255886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee17cd0c6ef4f%3A0xaf60d12d1eaa5ce7!2sTheRooms!5e0!3m2!1ssk!2ssk!4v1744286935662!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Geo-caching",
+        "description": "Geocaching je modern&aacute; forma skryt&yacute;ch pokladov, ktor&aacute; vyu&zcaron;&iacute;va GPS technol&oacute;giu. &uacute;&ccaron;astn&iacute;ci h&lcaron;adaj&uacute; \\\"geocache\\\" alebo \\\"cache\\\" - skryt&yacute; kontajner, ktor&yacute; m&ocirc;&zcaron;e obsahova&tcaron; logbook a r&ocirc;zne predmety na v&yacute;menu.",
+        "picture": "https://fll.gymmoldava.sk/geocaching.png",
+        "places": [
+          {
+            "id": 84,
+            "name": "internet",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://www.geocaching.com/play",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Go-Karting",
+        "description": "Go-Kart je pre milovn&iacute;kov r&yacute;chlej jazdy a adrenal&iacute;nu. M&ocirc;&zcaron;ete si zas&uacute;&tcaron;a&zcaron;i&tcaron; s priate&lcaron;mi na kartoch na okruhu.",
+        "picture": "https://fll.gymmoldava.sk/gokart.png",
+        "places": [
+          {
+            "id": 85,
+            "name": "Go-Karting",
+            "city": "Ko&scaron;ice",
+            "address": "Hrani&ccaron;n&aacute; 2, 040 17 Ko&scaron;ice",
+            "web": "https://www.kartingarena.sk/",
+            "contact": "+421 948 380 108",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.9571827947157!2d21.26153937636443!3d48.68718327130954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f21c6328b21f7%3A0x5f955572ed1ee7c9!2sKarting%20Arena%20Ko%C5%A1ice!5e0!3m2!1ssk!2ssk!4v1744286908904!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Jaskyniarstvo",
+        "description": "Jaskyniarstvo ako hobby je &ccaron;innos&tcaron; zameran&aacute; na objavovanie, sk&uacute;manie a mapovanie jask&yacute;&ncaron; a podzemn&yacute;ch priestorov. Je to dobrodru&zcaron;n&aacute; a technicky n&aacute;ro&ccaron;n&aacute; aktivita, ktor&aacute; si vy&zcaron;aduje &scaron;peci&aacute;lne vybavenie, t&iacute;mov&uacute; spolupr&aacute;cu.",
+        "picture": "https://fll.gymmoldava.sk/ai.jpg",
+        "places": [
+          {
+            "id": 86,
+            "name": "Moldavsk&yacute; jaskyniarsk&yacute; klub",
+            "city": "Moldava nad Bodvou",
+            "address": "Moldava nad Bodvou",
+            "web": "https://www.facebook.com/groups/199739897240964/members/",
+            "contact": "Adonis.TEN@gmail.com",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "K&uacute;palisko",
+        "description": "M&ocirc;&zcaron;e&scaron; si u&zcaron;i&tcaron; baz&eacute;ny, tobog&aacute;ny a r&ocirc;zne vodn&eacute; atrakcie. Je to skvel&yacute; sp&ocirc;sob oddychu a z&aacute;bavy.",
+        "picture": "https://fll.gymmoldava.sk/kupalisko.png",
+        "places": [
+          {
+            "id": 87,
+            "name": "K&uacute;palisko Ko&scaron;ice (Tropical Island Ko&scaron;ice)",
+            "city": "Ko&scaron;ice",
+            "address": "Stani&ccaron;n&eacute; n&aacute;mestie 1457, 040 01 Ko&scaron;ice",
+            "web": "https://www.kupaliska.sk/m/ke/",
+            "contact": "+421 556 784 567",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25040.873424662874!2d21.23896996309909!3d48.72272695032199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee063562bd65d%3A0x163d2e255e3ebe91!2zS8O6cGFsaXNrbyBSdW1hbm92w6E!5e0!3m2!1ssk!2ssk!4v1744286870159!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          },
+          {
+            "id": 88,
+            "name": "K&uacute;palisko",
+            "city": "Medzev",
+            "address": "&scaron;t&oacute;ska 872, Ni&zcaron;n&yacute; Medzev, 044 25 Medzev",
+            "web": "http://www.kupaliskomedzev.sk/",
+            "contact": "+421 905 523 716",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.031279163436!2d20.8863633!3d48.70488309999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f03d9b6aae3eb%3A0x474b764acf12162e!2zTWVzdHNrw6kga8O6cGFsaXNrbw!5e0!3m2!1ssk!2ssk!4v1745493447545!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Laser Game",
+        "description": "Laser game je adrenal&iacute;nov&aacute; t&iacute;mov&aacute; hra odohr&aacute;vaj&uacute;ca sa v &scaron;peci&aacute;lne upravenej ar&eacute;ne, kde hr&aacute;&ccaron;i pou&zcaron;&iacute;vaj&uacute; laserov&eacute; zbrane a nosia senzory na veste. Cie&lcaron;om hry je zasiahn&uacute;&tcaron; protihr&aacute;&ccaron;ov laserov&yacute;m l&uacute;&ccaron;om a z&iacute;ska&tcaron; &ccaron;o najviac bodov.",
+        "picture": "https://fll.gymmoldava.sk/laserggame.png",
+        "places": [
+          {
+            "id": 89,
+            "name": "Laser Game a 3D minigolf",
+            "city": "Ko&scaron;ice",
+            "address": "Laser Ar&eacute;na Ko&scaron;ice, Jarmo&ccaron;n&aacute; 2, 04001",
+            "web": "https://www.laserarenakosice.sk",
+            "contact": "+421 902 799 675",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59543.28934561467!2d21.173095661241998!3d48.7347853316339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473edfdfc6e13e9f%3A0x6203d0f2b8d9b6d0!2zTGFzZXIgQXLDqW5hIEtvxaFpY2U!5e0!3m2!1ssk!2ssk!4v1744287004318!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Paintball",
+        "description": "V skupin&aacute;ch sa v ter&eacute;ne pomocou streln&yacute;ch zbran&iacute; na &scaron;peci&aacute;lne farebn&eacute; n&aacute;boje sna&zcaron;ia navz&aacute;jom eliminova&tcaron;.",
+        "picture": "https://fll.gymmoldava.sk/paintball.png",
+        "places": [
+          {
+            "id": 90,
+            "name": "Paintball",
+            "city": "Ko&scaron;ice",
+            "address": "Ju&zcaron;n&eacute; n&aacute;bre&zcaron;ie 17, Ko&scaron;ice",
+            "web": "http://www.paintballopatske.sk/sk/",
+            "contact": "+421 905 488 179",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2629.773929509471!2d21.169063676369223!3d48.76711337131991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee0f694b4d8e1%3A0xd44631ab47b840a2!2sPaintballkosice!5e0!3m2!1ssk!2ssk!4v1744286961030!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Po&lcaron;ovnictvo",
+        "description": "Po&lcaron;ovn&iacute;ctvo je hobby spojen&eacute; s pou&zcaron;&iacute;van&iacute;m strelnej zbrane, preto nie je vhodn&eacute; pre deti. Pre ne je vhodn&eacute; staranie sa o zvierat&aacute; v lee, ktor&eacute; s t&yacute;m s&uacute;vis&iacute;.",
+        "picture": "https://fll.gymmoldava.sk/polovnik.png",
+        "places": [
+          {
+            "id": 91,
+            "name": "Po&lcaron;ovn&iacute;ci Debra&dcaron;",
+            "city": "Debra&dcaron;",
+            "address": "044 21, Debra&dcaron;",
+            "web": "https://www.facebook.com/people/Po%C4%BEovn%C3%AD%C4%8Dek-Ob%C4%8Dianske-zdru%C5%BEenie/100063652920751/",
+            "contact": "+421 905 488 179",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.123456789!2d20.9788813!3d48.6507273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2sDebra%C4%8F%2C%20Slovakia!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\"  width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" \n  loading=\"lazy\"  referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Rybolov",
+        "description": "Toto hobby zah&racute;&ncaron;a pou&zcaron;&iacute;vanie r&ocirc;znych typov ud&iacute;c, n&aacute;strah, a techn&iacute;k rybolovu, &ccaron;i u&zcaron; z brehu alebo z &ccaron;lna. Rybolov nielen&zcaron;e poskytuje pr&iacute;le&zcaron;itos&tcaron; na vzru&scaron;uj&uacute;ci z&aacute;&zcaron;itok, ale tie&zcaron; pripom&iacute;na d&ocirc;le&zcaron;it&yacute; vz&tcaron;ah k pr&iacute;rode a udr&zcaron;ate&lcaron;n&eacute;mu rybolovu.",
+        "picture": "https://fll.gymmoldava.sk/rybar.png",
+        "places": [
+          {
+            "id": 92,
+            "name": "rybn&iacute;k Jasov",
+            "city": "Jasov",
+            "address": "044 23, Jasov",
+            "web": "https://rybnikjasov.sk/",
+            "contact": "+421 944 441 370",
+            "mapa": "<iframe \n  src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.123456789!2d20.9733294!3d48.6836554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2sRybn%C3%ADk%20Jasov!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" \n  width=\"600\" \n  height=\"450\" \n  style=\"border:0;\" \n  allowfullscreen=\"\" \n  loading=\"lazy\" \n  referrerpolicy=\"no-referrer-when-downgrade\">\n</iframe>"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Turistika",
+        "description": "Turistika je p&uacute;tavou aktivitou, ktor&aacute; pon&uacute;ka pr&iacute;le&zcaron;itos&tcaron; prieskumu pr&iacute;rodn&yacute;ch kr&aacute;s, historick&yacute;ch pamiatok a r&ocirc;znorod&yacute;ch kult&uacute;rnych miest. Po&ccaron;as t&uacute;ry jednotlivci prech&aacute;dzaj&uacute; pe&scaron;o cez r&ocirc;zne ter&eacute;ny, &ccaron;i u&zcaron; s&uacute; to hory, lesy alebo in&eacute; scenick&eacute; oblasti.",
+        "picture": "https://fll.gymmoldava.sk/tourist.png",
+        "places": [
+          {
+            "id": 93,
+            "name": "turistika v okol&iacute; Moldavy n/B.",
+            "city": "Ko&scaron;ice",
+            "address": "internet",
+            "web": "https://www.kamnavylet.sk/sk/turistika/kosice",
+            "contact": "+421 904 170 081",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rozumové",
+    "color": "#338f9a",
+    "subcategories": [
+      {
+        "id": 42,
+        "name": "&ccaron;&iacute;tanie kn&iacute;h",
+        "description": "&ccaron;&iacute;tanie kn&iacute;h je p&uacute;tav&eacute; hobby, ktor&eacute; umo&zcaron;&ncaron;uje &lcaron;u&dcaron;om unikn&uacute;&tcaron; do sveta pr&iacute;behov, objavova&tcaron; nov&eacute; my&scaron;lienky a spozn&aacute;va&tcaron; r&ocirc;zne kult&uacute;ry. &ccaron;&iacute;tanie nie len rozv&iacute;ja slovn&uacute; z&aacute;sobu a analytick&eacute; schopnosti, ale aj pon&uacute;ka relaxa&ccaron;n&yacute; sp&ocirc;sob oddychu.",
+        "picture": "https://fll.gymmoldava.sk/citanie.png",
+        "places": [
+          {
+            "id": 94,
+            "name": "Mestsk&aacute; kni&zcaron;nica Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Hlavn&aacute; 60, Moldava nad Bodvou",
+            "web": "https://www.facebook.com/profile.php?id=100077892386207&locale=mt_MT",
+            "contact": "+421 917 677 127",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d427.60600900464954!2d21.001972281153886!3d48.61300868254148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1baa9c43b765%3A0x82c1229b688db297!2sKult%C3%BArny%20Dom!5e0!3m2!1ssk!2ssk!4v1737031698961!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "H&aacute;danky",
+        "description": "H&aacute;danky s&uacute; p&uacute;tav&yacute;m a z&aacute;bavn&yacute;m sp&ocirc;sobom, ako stimulova&tcaron; myslenie a rozv&iacute;ja&tcaron; logick&eacute; schopnosti. Rie&scaron;enie h&aacute;daniek vy&zcaron;aduje kreativitu, d&ocirc;vtip a schopnos&tcaron; analyzova&tcaron; inform&aacute;cie.",
+        "picture": "https://fll.gymmoldava.sk/hadanky.png",
+        "places": [
+          {
+            "id": 95,
+            "name": "H&aacute;danky",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://zlatyfond.sme.sk/slovenske-hadanky/index.php",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d402.7389873724174!2d21.252114863591302!3d48.72142068266247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sclub%20hadanky%20kosice%20!5e0!3m2!1ssk!2ssk!4v1737032230833!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Kr&iacute;&zcaron;ovky",
+        "description": "Kri&zcaron;ovkovanie je relaxa&ccaron;n&eacute; hobby, ktor&eacute; spo&ccaron;&iacute;va v rie&scaron;en&iacute; slovno-obrazov&yacute;ch h&aacute;daniek. Pri tejto &ccaron;innosti jednotlivci vkladaj&uacute; slov&aacute; do mrie&zcaron;ky tak, aby vytvorili s&uacute;visl&yacute; a logick&yacute; text.",
+        "picture": "https://fll.gymmoldava.sk/krizovky.png",
+        "places": [
+          {
+            "id": 96,
+            "name": "Kr&iacute;&zcaron;ovky",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://zlatyfond.sme.sk/slovenske-hadanky/index.php",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21672.02961032483!2d21.229089512560083!3d48.72681497257484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee06ed6b2948b%3A0x62e8df546aefb57e!2zS2_FoWlja8O9IGJyaWTFvm92w70ga2x1Yg!5e0!3m2!1ssk!2ssk!4v1737032629605!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Puzzle",
+        "description": "Skladanie puzzle je p&uacute;tav&yacute; a relaxa&ccaron;n&yacute; sp&ocirc;sob tr&aacute;venia &ccaron;asu. T&aacute;to &ccaron;innos&tcaron; spo&ccaron;&iacute;va v zostavovan&iacute; r&ocirc;znych dielov do dokon&ccaron;en&eacute;ho obrazu.",
+        "picture": "https://fll.gymmoldava.sk/puzzle.png",
+        "places": [
+          {
+            "id": 97,
+            "name": "Puzzle",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://www.puzzlemania.sk",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4098.584168720554!2d21.227337312718735!3d48.72189893777352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee0458e6c8837%3A0x470a79e7ddc730f6!2sPuzzle%20Ko%C5%A1ice!5e0!3m2!1ssk!2ssk!4v1737032422704!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Rubikov&aacute; kocka",
+        "description": "Rubikova kocka je ikonick&aacute; h&aacute;danka, ktor&uacute; tvor&iacute; &scaron;estn&aacute;s&tcaron; mal&yacute;ch kociek, ka&zcaron;d&aacute; s jednou z &scaron;iestich farieb. Cie&lcaron;om je zarovna&tcaron; farby na v&scaron;etk&yacute;ch &scaron;tyroch stran&aacute;ch kocky.",
+        "picture": "https://fll.gymmoldava.sk/rubikovakocka.png",
+        "places": [
+          {
+            "id": 98,
+            "name": "N&aacute;vod na vyrie&scaron;enie rubikovej kocky",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.148222998662!2d21.256985276332383!3d48.721759371313965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee065283a09df%3A0x47585de37588ccdc!2sCuba%20Libre!5e0!3m2!1ssk!2ssk!4v1737032820664!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Sudoku",
+        "description": "Cie&lcaron;om je vyplni&tcaron; mrie&zcaron;ku tak, aby sa v ka&zcaron;dom riadku, st&lacute;pci a 3x3 podmrie&zcaron;ke neopakovali &ccaron;&iacute;sla od 1 do 9. T&aacute;to jednoduch&aacute;, ale n&aacute;ro&ccaron;n&aacute; hra poskytuje v&yacute;zvu pre mozog a rozv&iacute;ja logick&eacute; myslenie.",
+        "picture": "https://fll.gymmoldava.sk/sudoku.jpg",
+        "places": [
+          {
+            "id": 99,
+            "name": "Sudoku",
+            "city": "internet",
+            "address": "internet",
+            "web": "http://mojesudoku.sk",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5740.529266043233!2d21.246907417622083!3d48.72374464501226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sclub%20sudoku%20kosice!5e0!3m2!1ssk!2ssk!4v1737032596417!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "&scaron;ach",
+        "description": "&scaron;ach je strat&eacute;gick&aacute; hra, kde dvaja hr&aacute;&ccaron;i s&uacute;peria o ovl&aacute;dnutie &scaron;achovnice pomocou r&ocirc;znych typov fig&uacute;rok. T&aacute;to hra vy&zcaron;aduje kombin&aacute;ciu taktick&eacute;ho myslenia, pl&aacute;novania a predv&iacute;dania &tcaron;ahov s&uacute;pera.",
+        "picture": "https://fll.gymmoldava.sk/sach.png",
+        "places": [
+          {
+            "id": 100,
+            "name": "&scaron;achov&yacute; klub Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "N&aacute;mestie mieru 3, 04501 Moldava nad Bodvou",
+            "web": "https://www.chess.sk/index.php?str=clenovia&klubId=30201",
+            "contact": "+421 915 933 609",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21672.02961032483!2d21.229089512560083!3d48.72681497257484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ee06ed6b2948b%3A0x62e8df546aefb57e!2zS2_FoWlja8O9IGJyaWTFvm92w70ga2x1Yg!5e0!3m2!1ssk!2ssk!4v1737032629605!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "U&ccaron;enie jazykov",
+        "description": "U&ccaron;enie jazykov je obohacuj&uacute;ce hobby, ktor&eacute; umo&zcaron;&ncaron;uje jednotlivcom objavova&tcaron; nov&eacute; kult&uacute;ry, komunikova&tcaron; s &lcaron;u&dcaron;mi z r&ocirc;znych &ccaron;ast&iacute; sveta a rozv&iacute;ja&tcaron; kognit&iacute;vne schopnosti.",
+        "picture": "https://fll.gymmoldava.sk/jazyk.png",
+        "places": [
+          {
+            "id": 101,
+            "name": "Jazykov&aacute; &scaron;kola G&scaron;M Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "&scaron;kolsk&aacute; 348, 045 01 Moldava nad Bodvou",
+            "web": "https://www.gymmoldava.sk/index.php?show=jss",
+            "contact": "+421 554 602 138",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d719.1456112831912!2d20.995752924934305!3d48.61294820890276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sjazykov%C3%A1%20%C5%A1kola%20%20Moldava%20nad%20Bodvou!5e0!3m2!1ssk!2ssk!4v1737032401159!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Iné",
+    "color": "#1c4c70",
+    "subcategories": [
+      {
+        "id": 50,
+        "name": "Hranie videohier",
+        "description": "Hranie videohier je z&aacute;bavn&yacute; a vzru&scaron;uj&uacute;ci sp&ocirc;sob tr&aacute;venia vo&lcaron;n&eacute;ho &ccaron;asu. Videohry poskytuj&uacute; hr&aacute;&ccaron;om pr&iacute;le&zcaron;itos&tcaron; pono�i&tcaron; sa do virtu&aacute;lneho sveta, kde m&ocirc;&zcaron;u za&zcaron;i&tcaron; r&ocirc;zne pr&iacute;behy, dobrodru&zcaron;stv&aacute; a v&yacute;zvy.",
+        "picture": "https://fll.gymmoldava.sk/gaming.jpg",
+        "places": [
+          {
+            "id": 102,
+            "name": "Steam",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://store.steampowered.com/",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Chov zvierat",
+        "description": "Chov zvierat je obohacuj&uacute;ce hobby, ktor&eacute; umo&zcaron;&ncaron;uje jednotlivcom starostlivos&tcaron; o dom&aacute;ce alebo exotick&eacute; zvierat&aacute;. T&aacute;to aktivita zah&racute;&ncaron;a starostlivos&tcaron; o ich zdravie, stravovanie, pr&iacute;padne chov a rozmno&zcaron;ovanie.",
+        "picture": "https://fll.gymmoldava.sk/pes.png",
+        "places": [
+          {
+            "id": 103,
+            "name": "SuperZoo Moldava n/B.",
+            "city": "Moldava nad Bodvou",
+            "address": "Ro&zcaron;&ncaron;avsk&aacute; 1429/23A,  045 01 Moldava nad Bodvou",
+            "web": "https://www.superzoo.sk/?gad_source=1&gclid=Cj0KCQiAoKeuBhCoARIsAB4WxtfLXXIewfDoUzgHPH-zqryIaVgTn0qfwyYnBf9pqMbYluM0N2AqWkIaAupJEALw_wcB",
+            "contact": "+421 910 598 795",
+            "mapa": "<iframe  src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.3878628792483!2d20.9970524!3d48.6109235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f10f96f48f67d%3A0xf84e5b8c71261765!2sSuper%20Zoo%2C%20Moldava%20nad%20Bodvou!5e0!3m2!1ssk!2ssk!4v1737045600000!5m2!1ssk!2ssk\" \n  width=\"600\" \n  height=\"450\" \n  style=\"border:0;\" \n  allowfullscreen=\"\" \n  loading=\"lazy\" \n  referrerpolicy=\"no-referrer-when-downgrade\">\n</iframe>"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Lego",
+        "description": "Lego je z&aacute;bavn&eacute; a kreat&iacute;vne hobby, ktor&eacute; umo&zcaron;&ncaron;uje jednotlivcom vytv&aacute;ra&tcaron; r&ocirc;zne modely pomocou farebn&yacute;ch plastov&yacute;ch stavebn&iacute;c a dielov. Od jednoduch&yacute;ch budov a vozidiel po komplexn&eacute; a detailn&eacute; kon&scaron;trukcie.",
+        "picture": "https://fll.gymmoldava.sk/lego.png",
+        "places": [
+          {
+            "id": 104,
+            "name": "Lego",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://www.lego.com/sk-sk",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Programovanie",
+        "description": "Programovanie je stimuluj&uacute;ce a kreat&iacute;vne hobby, ktor&eacute; umo&zcaron;&ncaron;uje jednotlivcom tvori&tcaron; softv&eacute;rov&eacute; aplik&aacute;cie, webov&eacute; str&aacute;nky alebo hry pomocou programovac&iacute;ch jazykov. Toto hobby nie len umo&zcaron;&ncaron;uje vytv&aacute;ranie funk&ccaron;n&yacute;ch produktov, ale aj rozv&iacute;ja analytick&eacute; myslenie, rie&scaron;enie probl&eacute;mov a logick&eacute; schopnosti.",
+        "picture": "https://fll.gymmoldava.sk/programovanie.png",
+        "places": [
+          {
+            "id": 105,
+            "name": "Programovanie",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://spike.legoeducation.com",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Robenie pokusov",
+        "description": "Robenie pokusov je vzru&scaron;uj&uacute;ce a vzdel&aacute;vacie hobby, ktor&eacute; umo&zcaron;&ncaron;uje jednotlivcom objavova&tcaron; a experimentova&tcaron; s r&ocirc;znymi vedeck&yacute;mi princ&iacute;pmi ako chemick&eacute; reakcie, fyzik&aacute;lne javy alebo biologick&eacute; procesy, a pon&uacute;ka pr&iacute;le&zcaron;itos&tcaron; objavova&tcaron; a pochopi&tcaron; svet okolo n&aacute;s.",
+        "picture": "https://fll.gymmoldava.sk/experiment.png",
+        "places": [
+          {
+            "id": 106,
+            "name": "Pokusy",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://www.youtube.com/playlist?list=PLqiGU4u5LkCFQega9AXpkVAMResk6To1G",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Zberate&lcaron;stvo",
+        "description": "Zberate&lcaron;stvo je fascinuj&uacute;ce hobby, ktor&eacute; umo&zcaron;&ncaron;uje jednotlivcom zhroma&zcaron;&dcaron;ova&tcaron; a &scaron;tudova&tcaron; r&ocirc;zne predmety s historickou, umeleckou alebo sentiment&aacute;lnou hodnotou. &lcaron;udia zbieraj&uacute; r&ocirc;zne veci, ako mince, zn&aacute;mky, staro&zcaron;itnosti, modely aut&iacute;&ccaron;ok, alebo in&eacute; .",
+        "picture": "https://fll.gymmoldava.sk/zberatelstvo.jpg",
+        "places": [
+          {
+            "id": 107,
+            "name": "Zberate&lcaron;stvo",
+            "city": "internet",
+            "address": "internet",
+            "web": "https://www.facebook.com/search/top?q=multifunk&ccaron;n&eacute;%20centrum%20pre%20deti%20a%20ml&aacute;de&zcaron;%20moldava%20nad%20bodvou&locale=mt_MT",
+            "contact": "bez kontaktu",
+            "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1489.2873042798508!2d20.9949927!3d48.6130444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f1bde6f2e3cdb%3A0xe3fd77936cd58c28!2zR3ltbsOheml1bSDFoHRlZmFuYSBNb3lzZXNhLCBNb2xkYXZhIG5hZCBib2R2b3U!5e0!3m2!1ssk!2ssk!4v1737048000000!5m2!1ssk!2ssk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        ]
+      }
+    ]
+  }
+  ]
+}
