@@ -29,7 +29,8 @@ onMounted(async () => {
   display: flex;
   flex-direction: column;
   padding: 1rem;
-  gap: 1rem;
+  gap: 2.15rem;
+  height: 150%;
 }
 
 .category-button {

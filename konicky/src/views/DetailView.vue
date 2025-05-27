@@ -1,5 +1,5 @@
 <template>
-  <div :style="{ backgroundColor: categoryColor, minHeight: '100vh' }">
+  <div :style="{ backgroundColor: categoryColor }">
     <div v-if="subcategory">
       <h1>{{ subcategory.name }}</h1>
       <img :src="subcategory.picture" alt="Obrázok" width="100%" />
@@ -28,3 +28,14 @@ onMounted(async () => {
   categoryColor.value = category?.color || '#fff'
 })
 </script>
+
+<style scoped>
+h2, p{
+  margin-left: 1rem;
+}
+h1{
+  padding-left: 1rem;
+  background-color: rgb(255, 236, 209);
+  color: #fff;
+}
+</style>

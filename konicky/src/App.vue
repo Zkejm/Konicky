@@ -27,10 +27,21 @@ watchEffect(async () => {
 .app-container {
   display: flex;
   flex-direction: column;
-  height: 100vh;
 }
 router-view {
   flex: 1;
   overflow-y: auto;
+}
+* {
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+html{
+  min-height: 100%;
 }
 </style>

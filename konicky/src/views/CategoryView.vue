@@ -1,9 +1,9 @@
 <template>
   <div v-if="category">
-    <h1>{{ category.name }}</h1>
     <SubcategoryList
       :subcategories="category.subcategories"
       :categoryId="category.id"
+      :color="category.color"
     />
   </div>
 </template>

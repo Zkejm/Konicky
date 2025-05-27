@@ -1,5 +1,5 @@
 <template>
-  <div :style="{ backgroundColor: category?.color || '#fff', minHeight: '100vh' }">
+  <div :style="{ backgroundColor: category?.color }">
     <SubcategoryList
       :subcategories="category.subcategories"
       :categoryId="category.id"
