@@ -4,12 +4,19 @@ import { VitePWA } from 'vite-plugin-pwa'
 import path from 'path'
 
 export default defineConfig({
-  base: '/app/', // ✅ dôležité pre správne načítanie assetov
+  base: '/app/', // Nastavenie základnej cesty pre assety
   plugins: [
     vue(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg', 'favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
+      injectRegister: 'script', // Zabezpečí správnu registráciu Service Workera
+      includeAssets: [
+        'favicon.svg',
+        'favicon.ico',
+        'robots.txt',
+        'apple-touch-icon.png',
+        'vite.svg' // Pridanie chýbajúceho súboru
+      ],
       manifest: {
         name: 'Konicky',
         short_name: 'Konicky',

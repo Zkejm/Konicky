@@ -1,6 +1,5 @@
 import { register } from 'register-service-worker'
 
-// Registruj len ak URL obsahuje /app/
 if (
   process.env.NODE_ENV === 'production' &&
   window.location.pathname.startsWith('/app/')
