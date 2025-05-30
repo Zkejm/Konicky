@@ -1,20 +1,26 @@
 {
   "name": "konicky",
-  "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "private": true,
+  "description": "This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.",
+  "author": "",
   "scripts": {
-    "dev": "vite",
     "build": "vite build",
+    "dev": "vite",
     "preview": "vite preview"
   },
+  "main": "vite.config.js",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "register-service-worker": "^1.7.2",
     "vue": "^3.5.13",
-    "vue-router": "^4.5.1",
-    "@fortawesome/fontawesome-free": "^6.7.2"
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",
-    "vite": "^6.3.5"
-  }
+    "vite": "^6.3.5",
+    "vite-plugin-pwa": "^0.18.0"
+  },
+  "license": "ISC",
+  "type": "module"
 }
